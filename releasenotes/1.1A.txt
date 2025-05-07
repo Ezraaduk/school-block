@@ -1,0 +1,9 @@
+1) Nouvelles fonctionnalités ajoutées :
+
+- Si le blocage du presse-papier est activé, son contenu est remplacé toutes les secondes, empêchant ainsi toute tentative de copier-coller depuis des éditeurs de texte comme les fichiers Notes, Word, ou tout autre fichier existant, même créé avant l'épreuve.
+
+2) Modifications de l'interface :
+
+- Un bouton a été ajouté pour fournir un guide simple et rapide sur le fonctionnement de l'application.
+
+- Une barre d'informations a été intégrée pour afficher l'état de la batterie, la durée du mode examen activé, le nombre de clés enregistrées, ainsi que le nombre d'applications bloquées. (Note : le compteur d'applications bloquées peut actuellement afficher des valeurs erronées, ce qui sera corrigé dans une future version.)
