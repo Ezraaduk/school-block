@@ -1,1 +1,12 @@
-HELLO WORD
+1) Nouvelles fonctionnalités ajoutées :
+
+- Vérification de la version au démarrage : Lors du lancement de l'application, une vérification est effectuée pour déterminer si une nouvelle version est disponible. Si une mise à jour est détectée, un bouton s'affiche pour permettre à l'utilisateur de mettre à jour l'application. Si l'installateur n'est pas encore présent sur l'ordinateur, l'option "Charger l'installateur" sera disponible pour faciliter le processus de mise à jour. L'installateur est représenté par une icône jaune distincte.
+
+2) Modifications des fonctionnalités existantes :
+
+- Amélioration du bouton "Aide" : Le bouton "Aide" a été amélioré pour offrir une assistance dynamique. Contrairement à la version précédente où les informations étaient statiques, désormais, les données proviennent directement du serveur GitHub. Cela permet de maintenir le guide d'utilisation à jour en continu, garantissant ainsi une expérience utilisateur plus fluide et actuelle.
+
+3) Correction de bugs :
+
+- Corrections de bugs mineurs : Plusieurs bugs mineurs ont été corrigés pour améliorer la stabilité et la performance de l'application.
+
