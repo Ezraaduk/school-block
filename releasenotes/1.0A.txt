@@ -24,11 +24,7 @@ Fonctionnalités principales :
 
 - L’interface graphique de School-Block a été pensée pour être simple d’usage, aussi bien pour les élèves que pour les administrateurs. Les utilisateurs standards n'ont pas accès au paramètres de l'application, tandis que les administrateurs bénéficient de paramètres supplémentaires après authentification.
 
-6. Historique des mises à jour intégré :
-
-- Un module dédié permet de consulter l’historique des mises à jour directement dans l’application, en se basant sur les fichiers de version stockés en ligne. Les utilisateurs peuvent sélectionner une version via un menu déroulant et lire son contenu, rendant les changements totalement transparents.
-
-7. Déploiement adapté aux établissements :
+6. Déploiement adapté aux établissements :
 
 - L’installation est pensée pour être compatible avec les environnements informatiques institutionnels (installation dans C:\Program Files, création automatique d’un raccourci, copie de fichiers internes dans un répertoire utilisateur, etc.). Cela permet une installation propre, standardisée et maintenable.
 
