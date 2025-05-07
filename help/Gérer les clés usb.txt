@@ -1,4 +1,4 @@
-— Clés USB administrateur — Fonctionnement et gestion :
+— Clés USB administrateur - Fonctionnement et gestion :
 
 L’application repose sur un système de contrôle par clé USB administrateur, permettant de restreindre et d’autoriser certaines actions sensibles (désactivation du mode examen, accès aux paramètres internes, ajout ou retrait de clés, etc.).
 
@@ -17,6 +17,6 @@ L’accès à toute fonction de gestion (paramètres, arrêt du mode examen, enr
 3) Ouvrez le menu d’ajout des clés.
 4) Sélectionnez la nouvelle clé détectée, attribuez-lui un nom d’identification, puis validez l’enregistrement.
 
-— La clé sera ajoutée au fichier de sauvegarde, avec son nom et son numéro de série.
+La clé sera ajoutée au fichier de sauvegarde, avec son nom et son numéro de série.
 
 — Important : L'ajout de nouvelles clés n’est autorisé que sous supervision, via une clé administrateur active. Ce mécanisme garantit qu'aucune personne non autorisée ne puisse modifier les droits d’accès.
