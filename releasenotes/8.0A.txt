@@ -2,29 +2,35 @@ Présentation de l'application School-Block :
 
 - School-Block est une application Windows conçue pour encadrer et sécuriser l'utilisation des ordinateurs en milieu scolaire. Elle vise à limiter les distractions numériques, renforcer la concentration des élèves, et garantir un usage responsable des postes informatiques dans les établissements éducatifs comme les collèges, lycées, ou centres de formation.
 
-Fonctionnalités principales
-1. Blocage automatique des navigateurs web
-School-Block surveille en permanence l'activité des principaux navigateurs (Chrome, Firefox, Edge, Opera, Brave...) et les ferme automatiquement dès qu'ils sont lancés, empêchant ainsi tout accès non autorisé à Internet. Cette fonctionnalité est idéale pour les examens, les évaluations numériques ou les séances pédagogiques nécessitant une attention totale.
+Fonctionnalités principales : 
 
-2. Fonctionnement autonome
-L'application ne nécessite aucune connexion Internet pour fonctionner. Tout est géré localement, ce qui permet son utilisation dans des environnements déconnectés ou restreints.
+1. Blocage automatique des navigateurs web :
 
-3. Accès administrateur sécurisé par clé USB
-L’accès aux fonctions avancées et aux réglages est strictement réservé aux administrateurs, via un système de clés USB physiques.
+- School-Block surveille en permanence l'activité des principaux navigateurs (Chrome, Firefox, Edge, Opera, Brave...) et les ferme automatiquement dès qu'ils sont lancés, empêchant ainsi tout accès non autorisé à Internet. Cette fonctionnalité est idéale pour les examens, les évaluations numériques ou les séances pédagogiques nécessitant une attention totale.
 
-Contrairement à d'autres systèmes, ces clés USB n'ont besoin d’aucun contenu spécifique, ni d’un formatage particulier : seule leur identité matérielle unique (numéro de série) est utilisée pour les reconnaître. Cela signifie qu’une clé USB standard peut devenir une clé administrateur simplement en enregistrant son identifiant dans le fichier de configuration. Ce mécanisme garantit une sécurité simple, fiable et impossible à deviner ou partager comme un mot de passe.
+2. Fonctionnement autonome : 
 
-4. Gestion des clés administrateur
-Un fichier local (admin_key.csv) contient les identifiants des clés autorisées, permettant de gérer facilement plusieurs administrateurs (enseignants, techniciens, responsables informatiques...). Aucune donnée sensible n’est stockée sur la clé elle-même, réduisant considérablement les risques.
+- L'application ne nécessite aucune connexion Internet pour activer le mode examen. Tout est géré localement, ce qui permet son utilisation dans des environnements déconnectés ou restreints. Cependant, certaines fonctionnalités peuvent ne pas fonctionner, tel que la vérification de mise à jour, ou l'affichage des modifications entre les diverse versions. (Ce message par exemple, ne peut s'afficher sans internet.)
 
-5. Interface claire et intuitive
-L’interface graphique de School-Block a été pensée pour être simple d’usage, aussi bien pour les élèves que pour les administrateurs. Les utilisateurs standards voient une interface minimale, tandis que les administrateurs bénéficient de commandes supplémentaires après authentification par clé.
+3. Accès administrateur sécurisé par clé USB :
 
-6. Historique des mises à jour intégré
-Un module dédié permet de consulter l’historique des mises à jour directement dans l’application, en se basant sur les fichiers de version stockés en ligne. Les utilisateurs peuvent sélectionner une version via un menu déroulant et lire son contenu, rendant les changements totalement transparents.
+- L’accès aux fonctions avancées et aux réglages est strictement réservé aux administrateurs, via un système de clés USB physiques. Contrairement à d'autres systèmes, ces clés USB n'ont besoin d’aucun contenu spécifique, ni d’un formatage particulier : seule leur identité matérielle unique (numéro de série) est utilisée pour les reconnaître. Cela signifie qu’une clé USB standard peut devenir une clé administrateur simplement en l'enregistrant depuis l'application. Ce mécanisme garantit une sécurité simple, fiable et impossible à deviner ou partager comme un mot de passe. 
 
-7. Déploiement adapté aux établissements
-L’installation est pensée pour être compatible avec les environnements informatiques institutionnels (installation dans C:\Program Files, création automatique d’un raccourci, copie de fichiers internes dans un répertoire utilisateur, etc.). Cela permet une installation propre, standardisée et maintenable.
+4. Gestion des clés administrateur :
+
+- Un fichier local (admin_key.csv) contient les identifiants des clés autorisées, permettant de gérer facilement plusieurs administrateurs (enseignants, techniciens, responsables informatiques...). Aucune donnée sensible n’est stockée sur la clé elle-même, réduisant considérablement les risques.
+
+5. Interface claire et intuitive :
+
+- L’interface graphique de School-Block a été pensée pour être simple d’usage, aussi bien pour les élèves que pour les administrateurs. Les utilisateurs standards n'ont pas accès au paramètres de l'application, tandis que les administrateurs bénéficient de paramètres supplémentaires après authentification.
+
+6. Historique des mises à jour intégré :
+
+- Un module dédié permet de consulter l’historique des mises à jour directement dans l’application, en se basant sur les fichiers de version stockés en ligne. Les utilisateurs peuvent sélectionner une version via un menu déroulant et lire son contenu, rendant les changements totalement transparents.
+
+7. Déploiement adapté aux établissements :
+
+- L’installation est pensée pour être compatible avec les environnements informatiques institutionnels (installation dans C:\Program Files, création automatique d’un raccourci, copie de fichiers internes dans un répertoire utilisateur, etc.). Cela permet une installation propre, standardisée et maintenable.
 
 Cas d’usage typiques :
 
@@ -37,4 +43,4 @@ Sécurité, confidentialité et pédagogie :
 
 - School-Block est conçu dans une logique de protection locale, sans collecte de données. Il ne remplace pas la surveillance humaine, mais agit comme une couche de discipline numérique, responsabilisant les élèves sans les espionner.
 
-Le système de clés administrateur physiques offre une sécurité tangible et évite les failles classiques des mots de passe : rien à retenir, rien à partager. Seuls les personnels disposant physiquement d'une clé enregistrée peuvent débloquer un poste.
+Le système de clés administrateur physiques offre une sécurité tangible et évite les failles classiques des mots de passe : rien à retenir, rien à partager. Seuls les personnels disposant physiquement d'une clé enregistrée peuvent débloquer un poste. (Attention lors d'un examen, assurez-vous de retiré toute clé USB administrateur de l'ordinateur.)
