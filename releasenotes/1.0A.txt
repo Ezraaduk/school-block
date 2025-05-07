@@ -2,9 +2,7 @@ Présentation de l'application School-Block :
 
 - School-Block est une application Windows conçue pour encadrer et sécuriser l'utilisation des ordinateurs en milieu scolaire. Elle vise à limiter les distractions numériques, renforcer la concentration des élèves, et garantir un usage responsable des postes informatiques dans les établissements éducatifs comme les collèges, lycées, ou centres de formation.
 
-Fonctionnalités principales : 
-
-1) Blocage automatique des navigateurs web :
+1) Fonctionnalités principales : 
 
 - School-Block surveille en permanence l'activité des principaux navigateurs (Chrome, Firefox, Edge, Opera, Brave...) et les ferme automatiquement dès qu'ils sont lancés, empêchant ainsi tout accès non autorisé à Internet. Cette fonctionnalité est idéale pour les examens, les évaluations numériques ou les séances pédagogiques nécessitant une attention totale.
 
