@@ -13,7 +13,7 @@ En cas de blocage, ne paniquez pas. L’ordinateur affiche toujours un message d
     - Patientez quelques secondes : l’ordinateur se débloquera automatiquement si la clé est reconnue.
 
 ⚠️ 2. Tentative de triche ou comportement suspect détecté
-- Message affiché : "Usage de « nom .exe de l'application » | application interdite détectée – demandez l'intervention d'un professeur." ou "Usage de « nom .exe de l'application » | application interdite détectée – demandez l'intervention d'un professeur\nil devra fermer manuellement l'application."
+- Message affiché : "Usage de « nom .exe de l'application » | application interdite détectée – demandez l'intervention d'un professeur." ou "Usage de « nom .exe de l'application » | application interdite détectée – demandez l'intervention d'un professeur il devra fermer manuellement l'application."
 
   - Ce message apparaît s'il y a tentative d’ouverture d’une application interdite. Si le programme n'a pas pu fermer l'application, le message précise que la fermeture manuelle de l'application est requis.
 
