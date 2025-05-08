@@ -1,0 +1,17 @@
+Google Chrome|chrome.exe
+Mozilla Firefox|firefox.exe
+Microsoft Edge|msedge.exe
+Opera|opera.exe
+Brave|brave.exe
+Tor Browser|tor.exe
+Internet Explorer|iexplore.exe
+Vivaldi|vivaldi.exe
+Epic Privacy Browser|epic.exe
+Chromium|chromium.exe
+UC Browser|UCBrowser.exe
+Avast Secure Browser|AvastBrowser.exe
+Comodo Dragon|dragon.exe
+SRWare Iron|iron.exe
+Maxthon|maxthon.exe
+Pale Moon|palemoon.exe
+Waterfox|waterfox.exe
