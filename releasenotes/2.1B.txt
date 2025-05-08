@@ -13,3 +13,7 @@ Une anomalie a été identifiée dans la version précédente de l’application
 - Les fonctionnalités de blocage des applications tierces restent pleinement opérationnelles.
 
 Cette mise à jour vise à renforcer la robustesse de l’outil tout en assurant sa compatibilité avec son propre environnement d’exécution.
+
+2) Modifications apportée : 
+
+Obtenir l'installateur : L'ouverture de l'installateur depuis l'application principale, rndait inutilisable l'installateur.
