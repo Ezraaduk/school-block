@@ -8,5 +8,5 @@
 
 3) Correction de bugs :
 
-- Corrections de bugs mineurs : Plusieurs bugs mineurs ont été corrigés pour améliorer la stabilité et la performance de l'application.
+- Corrections de bugs mineurs : Plusieurs bugs mineurs ont été corrigés pour améliorer la stabilité et les performances de l'application.
 
