@@ -1,22 +1,37 @@
-— Clés USB administrateur - Fonctionnement et gestion :
+🔐 Clés USB administrateur – Fonctionnement et gestion
+L’application utilise un système de contrôle par clés USB administrateur. Ces clés permettent de sécuriser les actions sensibles, comme :
 
-L’application repose sur un système de contrôle par clé USB administrateur, permettant de restreindre et d’autoriser certaines actions sensibles (désactivation du mode examen, accès aux paramètres internes, ajout ou retrait de clés, etc.).
+Désactiver le mode examen,
 
-— Identification :
+Accéder aux paramètres internes,
 
-Chaque clé USB est identifiée par son numéro de série matériel, lu automatiquement au moment de l’insertion. Ce numéro unique est comparé à la liste des clés autorisées, stockée dans le fichier admin_key.csv.
+Ajouter ou supprimer d’autres clés administrateur.
 
-— Accès administrateur :
+🆔 Comment une clé est-elle reconnue ?
+Chaque clé USB possède un numéro de série matériel unique. Ce numéro est automatiquement détecté lors de l’insertion, puis comparé à une liste enregistrée dans le fichier admin_key.csv.
 
-L’accès à toute fonction de gestion (paramètres, arrêt du mode examen, enregistrement de nouvelles clés) nécessite qu’au moins une clé administrateur déjà autorisée soit connectée. Sans cela, l’accès est refusé.
+Si le numéro correspond à une clé autorisée, les fonctions administrateur sont accessibles.
 
-— Ajouter une nouvelle clé administrateur :
+🔓 Accès aux fonctions administrateur
+Pour accéder à des actions sensibles (paramètres, ajout/suppression de clés, désactivation du mode examen), au moins une clé administrateur autorisée doit être connectée.
 
-1) Connectez une clé administrateur déjà autorisée.
-2) Connectez en parallèle la nouvelle clé à enregistrer.
-3) Ouvrez le menu d’ajout des clés.
-4) Sélectionnez la nouvelle clé détectée, attribuez-lui un nom d’identification, puis validez l’enregistrement.
+⚠️ Si aucune clé autorisée n’est détectée, l’accès est bloqué.
 
-La clé sera ajoutée au fichier de sauvegarde, avec son nom et son numéro de série.
+➕ Ajouter une nouvelle clé administrateur
+Pour enregistrer une nouvelle clé :
 
-— Important : L'ajout de nouvelles clés n’est autorisé que sous supervision, via une clé administrateur active. Ce mécanisme garantit qu'aucune personne non autorisée ne puisse modifier les droits d’accès.
+Connectez une clé administrateur déjà autorisée à l’ordinateur.
+
+Connectez ensuite la nouvelle clé USB que vous souhaitez enregistrer.
+
+Ouvrez le menu d’ajout de clés dans l’application.
+
+Choisissez la nouvelle clé dans la liste proposée.
+
+Donnez-lui un nom d’identification, puis validez.
+
+La clé est alors ajoutée automatiquement au fichier de configuration avec son nom et son numéro de série.
+
+⚠️ Important à retenir
+L’ajout de nouvelles clés n’est possible que si une clé administrateur est déjà présente.
+Ce système garantit que seul un utilisateur autorisé peut enregistrer de nouvelles clés, empêchant toute manipulation non autorisée.
