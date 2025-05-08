@@ -1,1 +1,15 @@
-HELLO WORD
+1) Améliorations des fonctionnalités existantes  :
+
+- Gestion des erreurs améliorée : l’ajout ou la suppression d’une clé est désormais soumis à des conditions précises, afin de garantir la sécurité et la cohérence du système.
+
+  - Ajout d’une clé : nécessite la présence d’une clé USB administrateur déjà connectée, ainsi qu’une seconde clé USB à configurer. Seules les clés bleues sont autorisées à l’ajout.
+
+  - Suppression d’une clé : la clé à supprimer doit être connectée à l’ordinateur, et au moins une autre clé USB administrateur doit être configurée pour autoriser l’opération.
+
+- Modification du guide d’utilisation : les thématiques sont désormais affichées par ordre alphabétique, facilitant la navigation.
+
+2) Modifications de l’interface utilisateur :
+
+- Liste des clés USB : réduction de la taille de la police (de 14 à 12), permettant un affichage plus compact et optimisé.
+
+- Barre d’informations : agrandissement de la taille du texte (de 12 à 14), améliorant la lisibilité des informations affichées à l’écran.
