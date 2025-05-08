@@ -1,1 +1,16 @@
-HELLO WORD
+📝 Note de mise à jour – Correction critique de compatibilité
+Objet : Suppression de python.exe de la liste des processus bloqués
+
+Une anomalie a été identifiée dans la version précédente de l’application, où le processus python.exe et ses variantes figurait parmi la liste prédéfinie des exécutables à bloquer.
+Cette configuration entraînait un dysfonctionnement immédiat, dans la mesure où l’application repose elle-même sur l’interpréteur Python pour son exécution.
+
+🛠️ Correctif apporté :
+
+- Le processus python.exe a été retiré de la liste des applications bloquées par défaut afin de préserver la stabilité et le bon fonctionnement de l’application.
+
+✅ Impact utilisateur :
+
+- L’application ne se bloque plus elle-même à son lancement.
+- Les fonctionnalités de blocage des applications tierces restent pleinement opérationnelles.
+
+Cette mise à jour vise à renforcer la robustesse de l’outil tout en assurant sa compatibilité avec son propre environnement d’exécution.
