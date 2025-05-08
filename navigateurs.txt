@@ -1,17 +1,49 @@
 Google Chrome|chrome.exe
-Mozilla Firefox|firefox.exe
 Microsoft Edge|msedge.exe
+Mozilla Firefox|firefox.exe
 Opera|opera.exe
 Brave|brave.exe
-Tor Browser|tor.exe
-Internet Explorer|iexplore.exe
 Vivaldi|vivaldi.exe
-Epic Privacy Browser|epic.exe
 Chromium|chromium.exe
-UC Browser|UCBrowser.exe
-Avast Secure Browser|AvastBrowser.exe
-Comodo Dragon|dragon.exe
-SRWare Iron|iron.exe
-Maxthon|maxthon.exe
-Pale Moon|palemoon.exe
-Waterfox|waterfox.exe
+Avast Secure Browser|avastbrowser.exe
+Torch Browser|torch.exe
+Discord|discord.exe
+Skype|skype.exe
+Microsoft Teams|teams.exe
+Slack|slack.exe
+Zoom|zoom.exe
+Telegram|telegram.exe
+WhatsApp Desktop|whatsapp.exe
+Signal|signal.exe
+Element (Matrix)|element.exe
+WeChat|wechat.exe
+Outil de capture Windows|snippingtool.exe
+Lightshot|lightshot.exe
+Gyazo|gyazo.exe
+OBS Studio 64-bit|obs64.exe
+OBS Studio 32-bit|obs32.exe
+Bandicam|bandicam.exe
+Screenpresso|screenpresso.exe
+CamStudio|camstudio.exe
+Flameshot|flameshot.exe
+Steam|steam.exe
+Epic Games Launcher|epicgameslauncher.exe
+Origin|origin.exe
+Riot Client|riotclientservices.exe
+Battle.net|battle.net.exe
+Ubisoft Connect|uplay.exe
+GOG Galaxy|goggalaxy.exe
+Roblox|robloxplayerbeta.exe
+Minecraft Launcher|minecraftlauncher.exe
+Valorant|valorant.exe
+Fortnite|fortniteclient-win64-shipping.exe
+OneDrive|onedrive.exe
+Google Drive|googledrivesync.exe
+Dropbox|dropbox.exe
+MEGA|mega.exe
+Nextcloud|nextcloud.exe
+PowerShell|powershell.exe
+Invite de commandes (CMD)|cmd.exe
+Visual Studio Code|code.exe
+Notepad++|notepad++.exe
+PuTTY|putty.exe
