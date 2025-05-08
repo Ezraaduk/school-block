@@ -1,1 +1,11 @@
-HELLO WORD
+1) Nouvelles fonctionnalités :
+
+- Liste prédéfinie de programmes à bloquer : Vous pouvez désormais choisir rapidement des programmes courants à bloquer (navigateurs, jeux, etc.) à partir d’une liste en ligne régulièrement mise à jour. Attention une connexion Internet est requise.
+
+- Gestion améliorée des erreurs : Le programme affiche désormais des messages d'erreur clairs et contextualisés en fonction du problème rencontré (connexion Internet, clé administrateur non détectée, etc.).
+
+2) Améliorations des fonctionnalités existantes :
+
+- Bouton "Aide" : Une vérification de la connexion Internet est désormais effectuée avant l’ouverture du guide d’utilisation, évitant ainsi les erreurs de chargement.
+
+- Fenêtre de suppression de programmes : La liste des programmes bloqués est désormais triée automatiquement par ordre alphabétique, facilitant la recherche.
