@@ -47,3 +47,65 @@ Invite de commandes (CMD)|cmd.exe
 Visual Studio Code|code.exe
 Notepad++|notepad++.exe
 PuTTY|putty.exe
+Comodo Dragon|dragon.exe
+SRWare Iron|iron.exe
+Pale Moon|palemoon.exe
+Waterfox|waterfox.exe
+Maxthon|maxthon.exe
+Yandex Browser|browser.exe
+Facebook Messenger|messenger.exe
+Line|line.exe
+Viber|viber.exe
+ICQ|icq.exe
+KakaoTalk|kakaotalk.exe
+Tox|qtox.exe
+Trillian|trillian.exe
+Pidgin|pidgin.exe
+ShareX|sharex.exe
+Debut Video Capture|debut.exe
+Icecream Screen Recorder|screenrecorder.exe
+Snagit|snagit32.exe
+XSplit Broadcaster|xsplit.core.exe
+FastStone Capture|fscapture.exe
+Camtasia|camtasia.exe
+Dxtory|dxtory.exe
+League of Legends|leagueclient.exe
+CS:GO|csgo.exe
+Dota 2|dota2.exe
+Apex Legends|r5apex.exe
+Genshin Impact|genshinimpact.exe
+Among Us|amongus.exe
+Rocket League|rocketleague.exe
+PUBG|tslgame.exe
+Minecraft Java|javaw.exe
+BlueStacks|bluestacks.exe
+LDPlayer|ldplayer.exe
+NoxPlayer|nox.exe
+Gameloop|androidemulator.exe
+pCloud|pcloud.exe
+Resilio Sync|resilio-sync.exe
+Tresorit|tresorit.exe
+Zotero|zotero.exe
+FileZilla|filezilla.exe
+WinSCP|winscp.exe
+BitTorrent|bittorrent.exe
+uTorrent|utorrent.exe
+qBittorrent|qbittorrent.exe
+Transmission-Qt|transmission-qt.exe
+Node.js|node.exe
+Git Bash|git-bash.exe
+Cmder|cmder.exe
+Terminal Windows|wt.exe
+Resource Hacker|reshacker.exe
+AutoHotkey|autohotkey.exe
+PowerToys|powertoys.exe
+Anaconda Navigator|anaconda-navigator.exe
+Sublime Text|sublime_text.exe
+Atom|atom.exe
+JetBrains IntelliJ IDEA|idea64.exe
+PyCharm|pycharm64.exe
+WebStorm|webstorm64.exe
+CLion|clion64.exe
+Eclipse|eclipse.exe
+NetBeans|netbeans64.exe
+
