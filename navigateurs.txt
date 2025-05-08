@@ -1,5 +1,8 @@
 Google Chrome|chrome.exe
 Microsoft Edge|msedge.exe
+Discord PTB|discordptb.exe
+Discord Canary|discordcanary.exe
+VirtualBox|VirtualBox.exe
 Mozilla Firefox|firefox.exe
 Opera|opera.exe
 Brave|brave.exe
