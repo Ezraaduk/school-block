@@ -1,1 +1,27 @@
-HELLO WORD
+🖥️ Que faire si l’ordinateur est bloqué pendant l’examen ?
+En cas de blocage, ne paniquez pas. L’ordinateur affiche toujours un message d’information pour vous guider. Lisez-le attentivement, car la procédure à suivre dépend du type de message affiché.
+
+🔋 1. Batterie trop faible
+- Message affiché : "Batterie trop faible – Connexion à une source d’alimentation requise."
+
+  - Cemessage signifie que la batterie de l’ordinateur est insuffisante (-20%) pour garantir la continuité de l’examen.
+
+  - Dans ce cas :
+
+    - Branchez immédiatement l’ordinateur à une prise secteur.
+    - Connectez ensuite une clé USB administrateur.
+    - Patientez quelques secondes : l’ordinateur se débloquera automatiquement si la clé est reconnue.
+
+⚠️ 2. Tentative de triche ou comportement suspect détecté
+- Message affiché : "Usage de « nom .exe de l'application » | application interdite détectée – demandez l'intervention d'un professeur." ou "Usage de « nom .exe de l'application » | application interdite détectée – demandez l'intervention d'un professeur\nil devra fermer manuellement l'application."
+
+  - Ce message apparaît s'il y a tentative d’ouverture d’une application interdite. Si le programme n'a pas pu fermer l'application, le message précise que la fermeture manuelle de l'application est requis.
+
+  - Dans ce cas :
+
+    - Connectez une clé USB administrateur.
+    - L’ordinateur effectuera une vérification.
+    - Si la clé est valide, le blocage sera levé automatiquement.
+    - Fermez le programme si nécessaire.
+
+Aucune autre action n’est requise dans ce cas.
