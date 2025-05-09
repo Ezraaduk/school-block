@@ -1,0 +1,11 @@
+❌ Mise à jour du système de blocage – Mode Examen
+
+- Le système de blocage utilisé pendant le mode examen a récemment été modifié afin d'offrir une meilleure stabilité, une sécurité renforcée et un contrôle plus efficace des postes.
+Principaux changements apportés :
+
+- Renforcement du système de surveillance : les fonctions de blocage du copier-coller, de l’accès à Internet et des applications non autorisées ont été améliorées pour garantir un environnement plus strict pendant les examens.
+- Optimisation de la détection des clés administrateur : seules les clés USB autorisées peuvent désormais désactiver le mode examen, supprimant ainsi toute possibilité de contournement.
+- Stabilité accrue : le fonctionnement général du logiciel a été revu pour limiter les erreurs et éviter les interruptions pendant une épreuve.
+- Interface mise à jour : de nouvelles indications à l’écran permettent de vérifier rapidement si le mode examen est actif, et combien de temps il l’a été.
+
+Ces modifications visent à renforcer la fiabilité du système et à répondre aux retours d’expérience des utilisateurs. Merci de vérifier que vous disposez bien de la dernière version du logiciel pour bénéficier de ces améliorations.
