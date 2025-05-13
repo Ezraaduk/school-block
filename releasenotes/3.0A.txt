@@ -1,0 +1,18 @@
+1) Refonte complète de l'interface de l'application
+Dans cette nouvelle version, l'intégralité des interfaces de l'application a été entièrement revue et améliorée. Cette refonte globale répond à un double objectif : rendre l'utilisation plus intuitive pour tous les utilisateurs, et offrir une expérience plus claire, cohérente et agréable.
+
+✅ Une navigation simplifiée
+Les menus ont été repensés pour faciliter l'accès aux différentes fonctionnalités. L'utilisateur peut désormais trouver plus rapidement ce dont il a besoin, grâce à une organisation plus logique et une meilleure hiérarchisation des informations.
+
+🎨 Un design modernisé
+Chaque fenêtre, chaque bouton, chaque élément visuel a été retravaillé avec une approche plus moderne et épurée. Les couleurs, les icônes et les polices ont été harmonisés pour rendre l’ensemble plus lisible, plus esthétique et moins chargé visuellement.
+
+🧭 Des interfaces plus claires, pour tous les profils
+Que vous soyez élève, enseignant ou administrateur, l'interface s’adapte à votre rôle. Les options spécifiques sont désormais regroupées dans des espaces dédiés, évitant toute confusion et rendant la prise en main plus rapide.
+
+💡 Une aide intégrée et visible
+Un nouveau système d’aide a été ajouté dans chaque section. Des infobulles, des descriptions et un bouton "Aide" permettent de comprendre facilement le fonctionnement de chaque partie de l'application, sans avoir à consulter un guide externe.
+
+🔒 Des paramètres administrateur mieux organisés
+L’espace réservé aux administrateurs a également été simplifié. Les fonctionnalités de gestion des clés USB, du blocage d’Internet, ou encore de la mise à jour de l’application sont désormais accessibles plus facilement, tout en restant sécurisées.
+
