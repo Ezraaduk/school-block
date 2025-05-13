@@ -1,0 +1,4 @@
+1) Problème après une mise en veille prolongée de l’ordinateur :
+
+- Le mode Examen devient inopérant après une période prolongée de mise en veille : il ne bloque plus l’accès à Internet comme prévu initialement.
+Ce bug est en cours de correction et sera résolu dans la version 4.0A. Vous pourrez obtenir cette mise à jour en utilisant l’installateur prévu à cet effet.
