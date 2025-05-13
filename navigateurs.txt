@@ -8,7 +8,7 @@ Opera|opera.exe
 Brave|brave.exe
 Vivaldi|vivaldi.exe
 Chromium|chromium.exe
-Avast Secure Browser|AvastBrowser.exe
+Avast Secure Browser|AvastBrowser
 Torch Browser|torch.exe
 Discord|discord.exe
 Skype|skype.exe
