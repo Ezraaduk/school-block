@@ -1,2 +1,0 @@
-1) Correction du système d'erreur :
-- Le nouveau système d'erreur fermait l'application, s'il n'y à aucune clé administrateur connectée. 
