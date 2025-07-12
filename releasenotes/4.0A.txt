@@ -1,2 +1,0 @@
-1) Correction de bug :
-- Correction de plusieurs bugs d'affichage sur la globalité de l'application.
