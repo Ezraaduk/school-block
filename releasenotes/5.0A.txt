@@ -1,0 +1,23 @@
+📅 Date de publication : 12 juillet 2025
+
+1) Nouveautés :
+✈️ Blocage d'Internet par vérification réseau
+Mise en place d’un système de détection active d’une connexion Internet toutes les 5 secondes.
+
+- Si une connexion est détectée (via les adresses 1.1.1.1, 8.8.8.8 ou bing.com), le logiciel exige l’activation manuelle du mode avion pour désactiver Internet.
+
+Un message d'erreur alerte l’élève et bloque l'ordinateur jusqu'à l'intervention d'un professeur. (Il devra réactiver le mode avion et débloquer l'ordinateur avec une clé.)
+🎯 Objectif : Renforcer la sécurité numérique lors des examens ou des sessions de travail encadrées, en s’assurant qu’aucun accès réseau ne soit possible.
+
+- Ajout du label "Internet" dans la barre d'information.
+
+2) 🧭 Interface d’état enrichie
+Affichage de : la durée de session active, le nombre de clés administrateur reconnues, le nombre d’applications surveillées/bloquées, l’état de la batterie (sur PC portables) et l’état de la connexion Internet (Introduit par la version 5.0A.)
+
+3) 🛠️ Correctifs
+- Correction du bug d'affichage du bouton, "Presse-papier", qui pouvait s'afficher de la mauvaise couleur.
+
+4) 📌 Instructions importantes
+Le blocage d’Internet et du presse-papier nécessite une activation manuelle de certaines mesures côté utilisateur (notamment le mode avion).
+
+- Pensez à informer les élèves/participants avant le début de session, pour éviter tout incident.
