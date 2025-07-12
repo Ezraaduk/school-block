@@ -1,1 +1,3 @@
-HELLO WORD
+1) Plus de 60 programmes sont actuellement listé sur l'application. Vous pouvez en bloquer un ou plusieurs parmi cette liste — mais le blocage ne se limite pas à ces programmes.
+
+🧪 Information : Actuellement, School-Block ne vérifie pas l'état de la connexion Internet de l'ordinateur. Cette fonctionnalité de surveillance du réseau est prévue pour une future version de l'application.
