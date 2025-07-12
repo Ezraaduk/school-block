@@ -1,5 +1,5 @@
 🖥️ Que faire si l’ordinateur est bloqué pendant l’examen ?
-En cas de blocage, ne paniquez pas. L’ordinateur affiche toujours un message d’information pour vous guider. Lisez-le attentivement, car la procédure à suivre dépend du type de message affiché.
+En cas de blocage, ne paniquez pas, l’ordinateur affiche toujours un message d’information pour vous guider. Lisez-le attentivement, car la procédure à suivre dépend du type de message affiché.
 
 🔋 1. Batterie trop faible
 - Message affiché : "Batterie trop faible – Connexion à une source d’alimentation requise."
