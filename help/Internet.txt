@@ -8,12 +8,11 @@ Dans ce cas :
 - L'ordinateur est bloquer, affichant un message d'erreur, un professeur devra intervenir pour débloquer l'ordinateur. (Réactiver le mode avion avant d'inserer votre clé USB.)
 
 ✈️ Activer le mode avion :
-L’activation du mode avion est donc nécessaire pour désactiver toutes les connexions réseau (Wi-Fi, Ethernet ou données mobiles). Sans cette action, le mode examen ne sera pas considéré comme pleinement opérationnel.
+L’activation du mode avion est donc nécessaire pour désactiver toutes les connexions réseau (Wi-Fi, Ethernet ou données mobiles). Sans cette action, le mode examen ne sera pas considéré comme pleinement opérationnel et l'application bloquera l'ordinateur jusqu'à l'intervention d'un professeur.
 
 ⚠️ Important :
 Le blocage d’Internet repose sur une vérification active : si Internet est réactivé manuellement, l’application le détectera dans les 5 secondes suivantes et l'ordinateur sera à nouveau bloquer.
-
-Comme pour le blocage du presse-papier, un professeur doit activer manuellement le mode avion : le logiciel ne peut pas désactiver Internet à sa place pour des raisons de sécurité et de restrictions système.
+Comme pour le blocage du presse-papier, un professeur doit activer manuellement le mode avion : le logiciel ne peut pas désactiver Internet à la place de l'élève, pour des raisons de sécurité et de restrictions système.
 
 🔐 Objectif :
 Ce système renforce la sécurité numérique en empêchant toute consultation extérieure pendant une activité contrôlée (examen, devoir surveillé, etc.), en complément des autres mesures comme :
