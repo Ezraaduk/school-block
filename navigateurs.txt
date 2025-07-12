@@ -111,4 +111,104 @@ WebStorm|webstorm64.exe
 CLion|clion64.exe
 Eclipse|eclipse.exe
 NetBeans|netbeans64.exe
+Brave Beta|brave_beta.exe
+Opera GX|opera_gx.exe
+Tor Browser|tor.exe
+Safari Windows|safari.exe
+Chromodo|chromodo.exe
+CometBird|cometbird.exe
+Avant Browser|avantbrowser.exe
+Messenger|messengerfordesktop.exe
+Franz|franz.exe
+Rambox|rambox.exe
+Spike|spike.exe
+Zalo|zalo.exe
+Wire|wire.exe
+Snip & Sketch|screenSketch.exe
+Sniptool|sniptool.exe
+ScreenToGif|screentogif.exe
+TinyTake|tinytake.exe
+Apowersoft Screen Recorder|apowersoftscreenrecorder.exe
+VSDC Free Screen Recorder|vsdcscreenrecorder.exe
+Streamlabs OBS|streamlabs obs.exe
+FBX Game Recorder|fbx.exe
+Game Bar (Xbox)|GameBar.exe
+NVIDIA ShadowPlay|nvspcaps64.exe
+Twitch Desktop App|twitch.exe
+GameRanger|gameranger.exe
+Itch.io|itch.exe
+TLauncher|tlauncher.exe
+CurseForge|curseforge.exe
+Badlion Client|badlionclient.exe
+MultiMC|multimc.exe
+GDLauncher|gdlauncher.exe
+CloudApp|cloudapp.exe
+Jottacloud|jotta.exe
+Koofr|koofr.exe
+Icedrive|icedrive.exe
+MobaXterm|moba.exe
+Termius|termius.exe
+Hyper Terminal|hyper.exe
+Alacritty|alacritty.exe
+Console2|console.exe
+Wing IDE|wing.exe
+Rider (JetBrains)|rider64.exe
+PhpStorm (JetBrains)|phpstorm64.exe
+RStudio|rstudio.exe
+Jupyter Notebook|jupyter-notebook.exe
+Thonny|thonny.exe
+Arduino IDE|arduino.exe
+Scratch Desktop|scratchdesktop.exe
+JDownloader|jdownloader2.exe
+Internet Download Manager|idman.exe
+Free Download Manager|fdm.exe
+Deluge|deluge.exe
+BitComet|bitcomet.exe
+Tixati|tixati.exe
+Docker Desktop|docker desktop.exe
+Postman|postman.exe
+Virtual PC|vpc.exe
+Recuva|recuva.exe
+CCleaner|ccleaner.exe
+TeamViewer|teamviewer.exe
+AnyDesk|anydesk.exe
+UltraViewer|ultraviewer.exe
+RemotePC|remotepc.exe
+Everything|everything.exe
+Search Everything|search.exe
+Everything Toolbar|et.exe
+Foxit Reader|foxitreader.exe
+SumatraPDF|sumatrapdf.exe
+PDF-XChange Editor|pdfxcview.exe
+VLC Media Player|vlc.exe
+MPC-HC|mpc-hc.exe
+KMPlayer|kmplayer.exe
+PotPlayer|potplayer.exe
+GOM Player|gom.exe
+SMPlayer|smplayer.exe
+WinRAR|winrar.exe
+7-Zip|7zFM.exe
+PeaZip|peazip.exe
+Bandizip|bandizip.exe
+Audacity|audacity.exe
+FL Studio|fl.exe
+Ableton Live|Ableton Live.exe
+LMMS|lmms.exe
+Inkscape|inkscape.exe
+Krita|krita.exe
+GIMP|gimp-2.10.exe
+Paint.NET|paintdotnet.exe
+Adobe Photoshop|photoshop.exe
+Adobe Illustrator|illustrator.exe
+Blender|blender.exe
+Unity Hub|unityhub.exe
+Unreal Editor|unrealeditor.exe
+Cinebench|cinebench.exe
+CPU-Z|cpuz.exe
+HWMonitor|hwmonitor.exe
+Speccy|speccy.exe
+WinMerge|winmergeu.exe
+Beyond Compare|bcompare.exe
+Meld|meld.exe
+
 
