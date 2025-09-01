@@ -1,0 +1,34 @@
+Cette version de l’application a été conçue pour centraliser tous les paramètres essentiels au même endroit, afin de rendre la configuration plus intuitive et accessible, tout en garantissant un contrôle précis sur l’environnement informatique des élèves. Grâce à cette interface simplifiée, l’administrateur peut gérer l’ensemble des options sans naviguer entre plusieurs menus ou fenêtres.
+
+1️⃣ Déblocage automatique de l’ordinateur à la fin des cours
+Fonction : Permet à l’ordinateur de se déverrouiller automatiquement lorsque les horaires de cours sont terminés.
+Objectif : Éviter la nécessité d’une intervention manuelle par un professeur ou un administrateur.
+
+Détails techniques :
+L’application vérifie l’heure actuelle et la compare aux horaires de cours définis.
+Lorsque l’heure de fin est atteinte, le mode examen est désactivé et l’ordinateur retrouve un fonctionnement normal.
+
+Impact pédagogique : Garantit que les élèves restent concentrés pendant les cours tout en leur permettant une utilisation libre en dehors du cadre scolaire.
+
+2️⃣ Blocage de l’activation du mode examen en dehors des heures de cours
+Fonction : Empêche l’utilisateur d’activer manuellement le mode examen lorsque ce n’est pas nécessaire.
+Objectif : Assurer que le mode examen ne soit actif que durant les périodes pédagogiques officielles.
+
+Détails techniques :
+L’application vérifie l’heure avant de permettre l’activation du mode examen.
+Si l’utilisateur tente d’activer le mode examen en dehors des horaires définis, l’action est refusée et un message explicatif s’affiche.
+
+Impact pédagogique : Maintient un contrôle strict sur les activités informatiques pendant la journée scolaire, tout en évitant des blocages inutiles en dehors des cours.
+
+3️⃣ Configuration du pourcentage de batterie minimum et obligation de charge
+Fonction : Permet de définir un seuil de batterie minimal à respecter et d’imposer l’utilisation du chargeur si nécessaire.
+Objectif : Prévenir les interruptions imprévues liées à une batterie faible et garantir la continuité du travail sur ordinateur portable.
+
+Détails techniques :
+Le système vérifie en temps réel le niveau de batterie.
+Si la batterie est inférieure au seuil configuré, certaines fonctionnalités peuvent être bloquées jusqu’à ce que l’ordinateur soit branché.
+L’administrateur peut choisir de forcer la charge obligatoire, même si la batterie est légèrement au-dessus du seuil.
+
+Impact pédagogique et technique :
+Assure que l’ordinateur reste opérationnel pendant toute la durée des cours.
+Évite les pertes de données ou les interruptions de travail dues à une batterie trop faible.
