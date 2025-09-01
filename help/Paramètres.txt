@@ -1,1 +1,6 @@
-HELLO WORD
+📜 En cliquant sur "Configuration", une fenêtre s'ouvre et vous permet de modifier certains comportements de l'application :
+
+- Les deux premiers boutons, permettent de gérer les clés USB, d'en ajouter une ou d'en supprimer une.
+- Les deux suivant gèrent les programmes, l'ajout et la suppression.
+- Le cinquième, permet de définir les horaires de cours, le bouton "Débloquer automatiquement" permet à l'élève de débloquer lo'rdinateur sans l'intervention d'un professeur.
+
