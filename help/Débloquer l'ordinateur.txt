@@ -4,7 +4,7 @@ En cas de blocage, ne paniquez pas, l’ordinateur affiche toujours un message d
 🔋 1. Batterie trop faible
 - Message affiché : "Batterie trop faible – Connexion à une source d’alimentation requise."
 
-  - Cemessage signifie que la batterie de l’ordinateur est insuffisante (-20%) pour garantir la continuité de l’examen.
+  - Ce message signifie que la batterie de l’ordinateur est insuffisante pour garantir la continuité de l’examen. (Vous pouvez modifier le pourcentage de batterie requis dans les paramètres de l'application.)
 
   - Dans ce cas :
 
