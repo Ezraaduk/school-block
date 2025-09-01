@@ -1,6 +1,75 @@
-📜 En cliquant sur "Configuration", une fenêtre s'ouvre et vous permet de modifier certains comportements de l'application :
+Lorsque vous cliquez sur “Configuration”, une nouvelle fenêtre s’ouvre. Cette fenêtre est conçue pour permettre à l’administrateur (ou professeur) de personnaliser le comportement de l’application pour les élèves. Elle est composée de 6 boutons principaux, chacun correspondant à une fonctionnalité spécifique.
 
-- Les deux premiers boutons, permettent de gérer les clés USB, d'en ajouter une ou d'en supprimer une.
-- Les deux suivant gèrent les programmes, l'ajout et la suppression.
-- Le cinquième, permet de définir les horaires de cours, le bouton "Débloquer automatiquement" permet à l'élève de débloquer lo'rdinateur sans l'intervention d'un professeur.
+1️⃣ Gestion des clés USB – Ajouter une clé
+Fonction : Permet d’enregistrer une nouvelle clé USB comme clé administrateur.
+Utilité : Une clé USB administrateur est nécessaire pour débloquer certaines fonctionnalités de l’application (ex : accès à certaines options, modifications du blocage des programmes).
 
+Détails techniques :
+La clé USB est identifiée par son numéro de série unique.
+Une fois ajoutée, elle est sauvegardée dans un fichier interne (souvent admin_key.csv).
+Seule une clé enregistrée peut effectuer des actions administratives.
+
+Conséquences : 
+Si l’utilisateur n’a pas de clé USB enregistrée, il ne pourra pas modifier certaines configurations sensibles.
+
+2️⃣ Gestion des clés USB – Supprimer une clé
+Fonction : Supprime une clé USB de la liste des clés administrateur.
+Utilité : Retirer l’accès administratif d’un utilisateur, par exemple si un professeur quitte l’école ou si une clé est perdue.
+
+Détails techniques :
+Supprime la ligne correspondante dans le fichier admin_key.csv.
+Empêche l’utilisation de cette clé pour tout accès administratif futur.
+
+Précaution : Il est conseillé de vérifier qu’au moins une clé reste enregistrée pour éviter un blocage complet de l’application.
+
+3️⃣ Gestion des programmes – Ajouter un programme
+Fonction : Permet d’ajouter un programme à la liste des applications bloquées ou surveillées.
+Utilité : Bloquer certains logiciels pour s’assurer que les élèves restent concentrés (ex : jeux, navigateurs, logiciels non autorisés).
+
+Détails techniques :
+Le programme peut être défini par son nom ou chemin d’exécution.
+Une fois ajouté, le programme sera automatiquement fermé ou bloqué lors du lancement de l’application.
+L’administrateur peut ainsi créer une liste noire personnalisée.
+
+Impact : Permet de gérer finement l’environnement informatique de l’élève, limitant les distractions.
+
+4️⃣ Gestion des programmes – Supprimer un programme
+Fonction : Retire un programme de la liste des programmes bloqués.
+Utilité : Permet de lever une restriction sur une application précédemment bloquée.
+
+Détails techniques :
+Supprime l’entrée correspondante dans le fichier interne de l’application.
+Le programme devient à nouveau accessible aux élèves.
+
+Conseil : Vérifier que la suppression est intentionnelle pour éviter d’ouvrir un logiciel non autorisé par inadvertance.
+
+5️⃣ Gestion des horaires de cours
+Fonction : Permet de définir les heures de début et de fin de cours.
+Utilité : Déterminer automatiquement quand certaines fonctionnalités doivent être actives ou inactives.
+
+Détails techniques :
+L’administrateur peut saisir des horaires pour chaque cours.
+L’application utilise ces horaires pour contrôler :
+Quand les programmes sont bloqués.
+Quand l’élève peut ou ne peut pas accéder à certaines fonctionnalités.
+
+Bouton “Débloquer automatiquement” :
+Permet à l’élève de débloquer son ordinateur à la fin de la journée sans intervention d’un professeur.
+Vérifie automatiquement que l’horaire de fin de journée est passé avant d’autoriser le déblocage.
+
+Impact pédagogique : 
+Garantit que l’ordinateur reste verrouillé pendant les cours et que l’élève ne peut pas tricher ou utiliser des programmes non autorisés avant la fin des cours.
+
+6️⃣ Gestion de la batterie (ordinateur portable uniquement)
+Fonction : Permet de configurer des restrictions liées à la batterie.
+Utilité : S’assurer que l’ordinateur portable de l’élève reste utilisable et sécurisé.
+
+Paramètres possibles :
+Pourcentage minimum : L’élève ne peut pas utiliser l’ordinateur si la batterie est trop faible (ex : inférieur à 20%).
+Obligation de charge : L’élève doit brancher l’ordinateur pour continuer à travailler si le niveau de batterie est bas.
+
+Détails techniques :
+L’application détecte le niveau de batterie en temps réel.
+Bloque certaines fonctionnalités si les conditions ne sont pas respectées.
+
+Impact : Préserve la continuité de travail et évite les arrêts brusques liés à une batterie déchargée, tout en sécurisant l’ordinateur.
