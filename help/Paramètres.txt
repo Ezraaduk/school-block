@@ -1,4 +1,4 @@
-Lorsque vous cliquez sur “Configuration”, une nouvelle fenêtre s’ouvre. Cette fenêtre est conçue pour permettre à l’administrateur (ou professeur) de personnaliser le comportement de l’application pour les élèves. Elle est composée de 6 boutons principaux, chacun correspondant à une fonctionnalité spécifique.
+Lorsque vous cliquez sur “Configuration”, une nouvelle fenêtre s’ouvre. Cette fenêtre est conçue pour permettre à l’administrateur ou professeur de personnaliser le comportement de l’application pour les élèves. Elle est composée de 6 boutons principaux, chacun correspondant à une fonctionnalité spécifique.
 
 1️⃣ Gestion des clés USB – Ajouter une clé
 Fonction : Permet d’enregistrer une nouvelle clé USB comme clé administrateur.
@@ -6,7 +6,7 @@ Utilité : Une clé USB administrateur est nécessaire pour débloquer certaines
 
 Détails techniques :
 La clé USB est identifiée par son numéro de série unique.
-Une fois ajoutée, elle est sauvegardée dans un fichier interne (souvent admin_key.csv).
+Une fois ajoutée, elle est sauvegardée dans un fichier interne.
 Seule une clé enregistrée peut effectuer des actions administratives.
 
 Conséquences : 
@@ -17,7 +17,7 @@ Fonction : Supprime une clé USB de la liste des clés administrateur.
 Utilité : Retirer l’accès administratif d’un utilisateur, par exemple si un professeur quitte l’école ou si une clé est perdue.
 
 Détails techniques :
-Supprime la ligne correspondante dans le fichier admin_key.csv.
+Supprime la ligne correspondante dans le fichier de sauvegarde.
 Empêche l’utilisation de cette clé pour tout accès administratif futur.
 
 Précaution : Il est conseillé de vérifier qu’au moins une clé reste enregistrée pour éviter un blocage complet de l’application.
@@ -48,7 +48,6 @@ Fonction : Permet de définir les heures de début et de fin de cours.
 Utilité : Déterminer automatiquement quand certaines fonctionnalités doivent être actives ou inactives.
 
 Détails techniques :
-L’administrateur peut saisir des horaires pour chaque cours.
 L’application utilise ces horaires pour contrôler :
 Quand les programmes sont bloqués.
 Quand l’élève peut ou ne peut pas accéder à certaines fonctionnalités.
@@ -56,6 +55,7 @@ Quand l’élève peut ou ne peut pas accéder à certaines fonctionnalités.
 Bouton “Débloquer automatiquement” :
 Permet à l’élève de débloquer son ordinateur à la fin de la journée sans intervention d’un professeur.
 Vérifie automatiquement que l’horaire de fin de journée est passé avant d’autoriser le déblocage.
+Exemple : Si les horaires de cours sont : 8h30 - 16h30, l'application débloquera automatiquement l'ordinateur à 16h31.
 
 Impact pédagogique : 
 Garantit que l’ordinateur reste verrouillé pendant les cours et que l’élève ne peut pas tricher ou utiliser des programmes non autorisés avant la fin des cours.
