@@ -1,4 +1,5 @@
 Google Chrome|chrome.exe
+Avast Secure Browser|AvastBrowser.exe
 Paramètres Windows|SystemSettings.exe
 Microsoft Edge|msedge.exe
 Discord PTB|discordptb.exe
