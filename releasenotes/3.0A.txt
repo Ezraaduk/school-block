@@ -1,3 +1,5 @@
+📅 Date de publication : 16 mai 2025
+
 1) Refonte complète de l'interface de l'application
 Dans cette nouvelle version, l'intégralité des interfaces de l'application a été entièrement revue et améliorée. Cette refonte globale répond à un double objectif : rendre l'utilisation plus intuitive pour tous les utilisateurs, et offrir une expérience plus claire, cohérente et agréable.
 
