@@ -1,7 +1,8 @@
 🙌 Mise à jour du système de blocage – Mode Examen
 
 - Le système de blocage utilisé pendant le mode examen a récemment été modifié afin d'offrir une meilleure stabilité, une sécurité renforcée et un contrôle plus efficace des postes.
-Principaux changements apportés :
+
+1) Principaux changements apportés :
 
 - Renforcement du système de surveillance : les fonctions de blocage du copier-coller, de l’accès à Internet et des applications non autorisées ont été améliorées pour garantir un environnement plus strict pendant les examens.
 - Stabilité accrue : le fonctionnement général du logiciel a été revu pour limiter les erreurs et éviter les interruptions pendant une épreuve.
