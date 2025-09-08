@@ -158,4 +158,4 @@ R : Il est possible de modifier certains fichiers de configuration, mais il est 
 ---
 
 **Remarque :**  
-School-Block est conçu pour un usage éducatif et professionnel. L’administrateur doit informer les utilisat
+School-Block est conçu pour un usage éducatif et professionnel. L’administrateur, le professeur, doit informer l'élève du blocage mit en place.
