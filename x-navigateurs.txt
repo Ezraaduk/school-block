@@ -1,4 +1,5 @@
 Google Chrome|chrome.exe
+Paramètres Windows|SystemSettings.exe
 Microsoft Edge|msedge.exe
 Discord PTB|discordptb.exe
 Discord Canary|discordcanary.exe
