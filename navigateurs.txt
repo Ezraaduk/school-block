@@ -5,6 +5,7 @@ Discord Canary|discordcanary.exe
 VirtualBox|VirtualBox.exe
 Mozilla Firefox|firefox.exe
 Opera|opera.exe
+Spotify|spotify.exe
 Brave|brave.exe
 Vivaldi|vivaldi.exe
 Chromium|chromium.exe
