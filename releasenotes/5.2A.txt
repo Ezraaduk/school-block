@@ -9,3 +9,6 @@ Certaines fonctionnalités ont été limitées à des types d’ordinateurs spé
 Paramètres liés au mode Avion : uniquement disponibles sur les ordinateurs portables. (Pour les ordinateurs fixes, débranchez le câble Ethernet si vous souhaitez gérer certaines options réseau.)
 
 Paramètres liés à la batterie : disponibles uniquement sur les ordinateurs portables, puisque les ordinateurs fixes n’utilisent pas de batterie intégrée.
+
+3) Il est impossible d'ouvrir l'application en dehors des horaires défini par l'établissement même en possédant une clé administrateur. 
+Ce système vise à éviter les abus d'utilisation en dehors des temps scolaires.
