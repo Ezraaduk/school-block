@@ -20,6 +20,7 @@ x - Slack|slack.exe
 x - Zoom|zoom.exe
 x - Telegram|telegram.exe
 WhatsApp Desktop|whatsapp.exe
+EA|EADesktop.exe
 x - Signal|signal.exe
 x - Element (Matrix)|element.exe
 x - WeChat|wechat.exe
