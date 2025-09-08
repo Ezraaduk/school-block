@@ -2,7 +2,7 @@
 
 Cette version de l’application a été conçue pour centraliser tous les paramètres essentiels au même endroit, afin de rendre la configuration plus intuitive et accessible, tout en garantissant un contrôle précis sur l’environnement informatique des élèves. Grâce à cette interface simplifiée, l’administrateur peut gérer l’ensemble des options sans naviguer entre plusieurs menus ou fenêtres.
 
-1️⃣ Déblocage automatique de l’ordinateur à la fin des cours
+1) Déblocage automatique de l’ordinateur à la fin des cours
 Fonction : Permet à l’ordinateur de se déverrouiller automatiquement lorsque les horaires de cours sont terminés.
 Objectif : Éviter la nécessité d’une intervention manuelle par un professeur ou un administrateur.
 
@@ -12,7 +12,7 @@ Lorsque l’heure de fin est atteinte, le mode examen est désactivé et l’ord
 
 Impact pédagogique : Garantit que les élèves restent concentrés pendant les cours tout en leur permettant une utilisation libre en dehors du cadre scolaire.
 
-2️⃣ Blocage de l’activation du mode examen en dehors des heures de cours
+2) Blocage de l’activation du mode examen en dehors des heures de cours
 Fonction : Empêche l’utilisateur d’activer manuellement le mode examen lorsque ce n’est pas nécessaire.
 Objectif : Assurer que le mode examen ne soit actif que durant les périodes pédagogiques officielles.
 
@@ -22,7 +22,7 @@ Si l’utilisateur tente d’activer le mode examen en dehors des horaires défi
 
 Impact pédagogique : Maintient un contrôle strict sur les activités informatiques pendant la journée scolaire, tout en évitant des blocages inutiles en dehors des cours.
 
-3️⃣ Configuration du pourcentage de batterie minimum et obligation de charge
+3) Configuration du pourcentage de batterie minimum et obligation de charge
 Fonction : Permet de définir un seuil de batterie minimal à respecter et d’imposer l’utilisation du chargeur si nécessaire.
 Objectif : Prévenir les interruptions imprévues liées à une batterie faible et garantir la continuité du travail sur ordinateur portable.
 
