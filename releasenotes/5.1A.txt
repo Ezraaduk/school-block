@@ -1,3 +1,5 @@
+📅 Date de publication : 4 août 2025
+
 Cette version de l’application a été conçue pour centraliser tous les paramètres essentiels au même endroit, afin de rendre la configuration plus intuitive et accessible, tout en garantissant un contrôle précis sur l’environnement informatique des élèves. Grâce à cette interface simplifiée, l’administrateur peut gérer l’ensemble des options sans naviguer entre plusieurs menus ou fenêtres.
 
 1️⃣ Déblocage automatique de l’ordinateur à la fin des cours
