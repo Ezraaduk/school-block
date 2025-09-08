@@ -22,7 +22,7 @@ WhatsApp Desktop|whatsapp.exe
 Signal|signal.exe
 Element (Matrix)|element.exe
 WeChat|wechat.exe
-Outil de capture Windows|snippingtool.exe
+Capture Windows|snippingtool.exe
 Lightshot|lightshot.exe
 Gyazo|gyazo.exe
 OBS Studio 64-bit|obs64.exe
