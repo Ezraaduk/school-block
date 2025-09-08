@@ -2,216 +2,216 @@ Google Chrome|chrome.exe
 Avast Secure Browser|AvastBrowser.exe
 Paramètres Windows|SystemSettings.exe
 Microsoft Edge|msedge.exe
-Discord PTB|discordptb.exe
-Discord Canary|discordcanary.exe
-VirtualBox|VirtualBox.exe
+x - Discord PTB|discordptb.exe
+x - Discord Canary|discordcanary.exe
+x - VirtualBox|VirtualBox.exe
 Mozilla Firefox|firefox.exe
-Opera|opera.exe
+x - Opera|opera.exe
 Spotify|spotify.exe
-Brave|brave.exe
-Vivaldi|vivaldi.exe
-Chromium|chromium.exe
+x - Brave|brave.exe
+x - Vivaldi|vivaldi.exe
+x - Chromium|chromium.exe
 Avast Secure Browser|AvastBrowser
-Torch Browser|torch.exe
+x - Torch Browser|torch.exe
 Discord|discord.exe
-Skype|skype.exe
-Microsoft Teams|teams.exe
-Slack|slack.exe
-Zoom|zoom.exe
-Telegram|telegram.exe
+x - Skype|skype.exe
+x - Microsoft Teams|teams.exe
+x - Slack|slack.exe
+x - Zoom|zoom.exe
+x - Telegram|telegram.exe
 WhatsApp Desktop|whatsapp.exe
-Signal|signal.exe
-Element (Matrix)|element.exe
-WeChat|wechat.exe
+x - Signal|signal.exe
+x - Element (Matrix)|element.exe
+x - WeChat|wechat.exe
 Capture Windows|snippingtool.exe
-Lightshot|lightshot.exe
-Gyazo|gyazo.exe
+x - Lightshot|lightshot.exe
+x - Gyazo|gyazo.exe
 OBS Studio 64-bit|obs64.exe
-OBS Studio 32-bit|obs32.exe
-Bandicam|bandicam.exe
-Screenpresso|screenpresso.exe
-CamStudio|camstudio.exe
-Flameshot|flameshot.exe
+x - Bandicam|bandicam.exe
+x - Screenpresso|screenpresso.exe
+x - CamStudio|camstudio.exe
+x - Flameshot|flameshot.exe
 Steam|steam.exe
-Epic Games Launcher|epicgameslauncher.exe
-Origin|origin.exe
-Riot Client|riotclientservices.exe
-Battle.net|battle.net.exe
-Ubisoft Connect|uplay.exe
-GOG Galaxy|goggalaxy.exe
+x - Epic Games Launcher|epicgameslauncher.exe
+x - Origin|origin.exe
+x - Riot Client|riotclientservices.exe
+x - Battle.net|battle.net.exe
+x - Ubisoft Connect|uplay.exe
+x - GOG Galaxy|goggalaxy.exe
 Roblox|robloxplayerbeta.exe
-Minecraft Launcher|minecraftlauncher.exe
-Valorant|valorant.exe
-Fortnite|fortniteclient-win64-shipping.exe
+x - Minecraft Launcher|minecraftlauncher.exe
+x - Valorant|valorant.exe
+x - Fortnite|fortniteclient-win64-shipping.exe
 OneDrive|onedrive.exe
-Google Drive|googledrivesync.exe
-Dropbox|dropbox.exe
-MEGA|mega.exe
-Nextcloud|nextcloud.exe
+x - Google Drive|googledrivesync.exe
+x - Dropbox|dropbox.exe
+x - MEGA|mega.exe
+x - Nextcloud|nextcloud.exe
 PowerShell|powershell.exe
 Invite de commandes (CMD)|cmd.exe
-Visual Studio Code|code.exe
-Notepad++|notepad++.exe
-PuTTY|putty.exe
-Comodo Dragon|dragon.exe
-SRWare Iron|iron.exe
-Pale Moon|palemoon.exe
-Waterfox|waterfox.exe
-Maxthon|maxthon.exe
-Yandex Browser|browser.exe
-Facebook Messenger|messenger.exe
-Line|line.exe
-Viber|viber.exe
-ICQ|icq.exe
-KakaoTalk|kakaotalk.exe
-Tox|qtox.exe
-Trillian|trillian.exe
-Pidgin|pidgin.exe
-ShareX|sharex.exe
-Debut Video Capture|debut.exe
-Icecream Screen Recorder|screenrecorder.exe
-Snagit|snagit32.exe
-XSplit Broadcaster|xsplit.core.exe
-FastStone Capture|fscapture.exe
-Camtasia|camtasia.exe
-Dxtory|dxtory.exe
-League of Legends|leagueclient.exe
-CS:GO|csgo.exe
-Dota 2|dota2.exe
-Apex Legends|r5apex.exe
-Genshin Impact|genshinimpact.exe
-Among Us|amongus.exe
-Rocket League|rocketleague.exe
-PUBG|tslgame.exe
-Minecraft Java|javaw.exe
-BlueStacks|bluestacks.exe
-LDPlayer|ldplayer.exe
-NoxPlayer|nox.exe
-Gameloop|androidemulator.exe
-pCloud|pcloud.exe
-Resilio Sync|resilio-sync.exe
-Tresorit|tresorit.exe
-Zotero|zotero.exe
+x - Visual Studio Code|code.exe
+x - Notepad++|notepad++.exe
+Notepad|Notepad.exe
+x - PuTTY|putty.exe
+x - Comodo Dragon|dragon.exe
+x - SRWare Iron|iron.exe
+x - Pale Moon|palemoon.exe
+x - Waterfox|waterfox.exe
+x - Maxthon|maxthon.exe
+x - Yandex Browser|browser.exe
+x - Facebook Messenger|messenger.exe
+x - Line|line.exe
+x - Viber|viber.exe
+x - ICQ|icq.exe
+x - KakaoTalk|kakaotalk.exe
+x - Tox|qtox.exe
+x - Trillian|trillian.exe
+x - Pidgin|pidgin.exe
+x - ShareX|sharex.exe
+x - Debut Video Capture|debut.exe
+x - Icecream Screen Recorder|screenrecorder.exe
+x - Snagit|snagit32.exe
+x - XSplit Broadcaster|xsplit.core.exe
+x - FastStone Capture|fscapture.exe
+x - Camtasia|camtasia.exe
+x - Dxtory|dxtory.exe
+x - League of Legends|leagueclient.exe
+x - CS:GO|csgo.exe
+x - Dota 2|dota2.exe
+x - Apex Legends|r5apex.exe
+x - Genshin Impact|genshinimpact.exe
+x - Among Us|amongus.exe
+x - Rocket League|rocketleague.exe
+x - PUBG|tslgame.exe
+x - Minecraft Java|javaw.exe
+x - BlueStacks|bluestacks.exe
+x - LDPlayer|ldplayer.exe
+x - NoxPlayer|nox.exe
+x - Gameloop|androidemulator.exe
+x - pCloud|pcloud.exe
+x - Resilio Sync|resilio-sync.exe
+x - Tresorit|tresorit.exe
+x - Zotero|zotero.exe
 FileZilla|filezilla.exe
-WinSCP|winscp.exe
-BitTorrent|bittorrent.exe
-uTorrent|utorrent.exe
-qBittorrent|qbittorrent.exe
-Transmission-Qt|transmission-qt.exe
-Node.js|node.exe
-Git Bash|git-bash.exe
-Cmder|cmder.exe
+x - WinSCP|winscp.exe
+x - BitTorrent|bittorrent.exe
+x - uTorrent|utorrent.exe
+x - qBittorrent|qbittorrent.exe
+x - Transmission-Qt|transmission-qt.exe
+x - Node.js|node.exe
+x - Git Bash|git-bash.exe
+x - Cmder|cmder.exe
 Terminal Windows|wt.exe
-Resource Hacker|reshacker.exe
-AutoHotkey|autohotkey.exe
-PowerToys|powertoys.exe
-Anaconda Navigator|anaconda-navigator.exe
-Sublime Text|sublime_text.exe
-Atom|atom.exe
-JetBrains IntelliJ IDEA|idea64.exe
-PyCharm|pycharm64.exe
-WebStorm|webstorm64.exe
-CLion|clion64.exe
-Eclipse|eclipse.exe
-NetBeans|netbeans64.exe
-Brave Beta|brave_beta.exe
-Opera GX|opera_gx.exe
-Tor Browser|tor.exe
-Safari Windows|safari.exe
-Chromodo|chromodo.exe
-CometBird|cometbird.exe
-Avant Browser|avantbrowser.exe
-Messenger|messengerfordesktop.exe
-Franz|franz.exe
-Rambox|rambox.exe
-Spike|spike.exe
-Zalo|zalo.exe
-Wire|wire.exe
-Snip & Sketch|screenSketch.exe
-Sniptool|sniptool.exe
-ScreenToGif|screentogif.exe
-TinyTake|tinytake.exe
-Apowersoft Screen Recorder|apowersoftscreenrecorder.exe
-VSDC Free Screen Recorder|vsdcscreenrecorder.exe
-Streamlabs OBS|streamlabs obs.exe
-FBX Game Recorder|fbx.exe
-Game Bar (Xbox)|GameBar.exe
-NVIDIA ShadowPlay|nvspcaps64.exe
-Twitch Desktop App|twitch.exe
-GameRanger|gameranger.exe
-Itch.io|itch.exe
-TLauncher|tlauncher.exe
-CurseForge|curseforge.exe
-Badlion Client|badlionclient.exe
-MultiMC|multimc.exe
-GDLauncher|gdlauncher.exe
-CloudApp|cloudapp.exe
-Jottacloud|jotta.exe
-Koofr|koofr.exe
-Icedrive|icedrive.exe
-MobaXterm|moba.exe
-Termius|termius.exe
-Hyper Terminal|hyper.exe
-Alacritty|alacritty.exe
-Console2|console.exe
-Wing IDE|wing.exe
-Rider (JetBrains)|rider64.exe
-PhpStorm (JetBrains)|phpstorm64.exe
-RStudio|rstudio.exe
-Jupyter Notebook|jupyter-notebook.exe
-Thonny|thonny.exe
-Arduino IDE|arduino.exe
-Scratch Desktop|scratchdesktop.exe
-JDownloader|jdownloader2.exe
-Internet Download Manager|idman.exe
-Free Download Manager|fdm.exe
-Deluge|deluge.exe
-BitComet|bitcomet.exe
-Tixati|tixati.exe
-Docker Desktop|docker desktop.exe
-Postman|postman.exe
-Virtual PC|vpc.exe
-Recuva|recuva.exe
-CCleaner|ccleaner.exe
-TeamViewer|teamviewer.exe
+x - Resource Hacker|reshacker.exe
+x - AutoHotkey|autohotkey.exe
+x - PowerToys|powertoys.exe
+x - Anaconda Navigator|anaconda-navigator.exe
+x - Sublime Text|sublime_text.exe
+x - Atom|atom.exe
+x - JetBrains IntelliJ IDEA|idea64.exe
+x - PyCharm|pycharm64.exe
+x - WebStorm|webstorm64.exe
+x - CLion|clion64.exe
+x - Eclipse|eclipse.exe
+x - NetBeans|netbeans64.exe
+x - Brave Beta|brave_beta.exe
+x - Opera GX|opera_gx.exe
+x - Tor Browser|tor.exe
+x - Safari Windows|safari.exe
+x - Chromodo|chromodo.exe
+x - CometBird|cometbird.exe
+x - Avant Browser|avantbrowser.exe
+x - Messenger|messengerfordesktop.exe
+x - Franz|franz.exe
+x - Rambox|rambox.exe
+x - Spike|spike.exe
+x - Zalo|zalo.exe
+x - Wire|wire.exe
+x - Snip & Sketch|screenSketch.exe
+x - Sniptool|sniptool.exe
+x - ScreenToGif|screentogif.exe
+x - TinyTake|tinytake.exe
+x - Apowersoft Screen Recorder|apowersoftscreenrecorder.exe
+x - VSDC Free Screen Recorder|vsdcscreenrecorder.exe
+x - Streamlabs OBS|streamlabs obs.exe
+x - FBX Game Recorder|fbx.exe
+x - Game Bar (Xbox)|GameBar.exe
+x - NVIDIA ShadowPlay|nvspcaps64.exe
+x - Twitch Desktop App|twitch.exe
+x - GameRanger|gameranger.exe
+x - Itch.io|itch.exe
+x - TLauncher|tlauncher.exe
+x - CurseForge|curseforge.exe
+x - Badlion Client|badlionclient.exe
+x - MultiMC|multimc.exe
+x - GDLauncher|gdlauncher.exe
+x - CloudApp|cloudapp.exe
+x - Jottacloud|jotta.exe
+x - Koofr|koofr.exe
+x - Icedrive|icedrive.exe
+x - MobaXterm|moba.exe
+x - Termius|termius.exe
+x - Hyper Terminal|hyper.exe
+x - Alacritty|alacritty.exe
+x - Console2|console.exe
+x - Wing IDE|wing.exe
+x - Rider (JetBrains)|rider64.exe
+x - PhpStorm (JetBrains)|phpstorm64.exe
+x - RStudio|rstudio.exe
+x - Jupyter Notebook|jupyter-notebook.exe
+x - Thonny|thonny.exe
+x - Arduino IDE|arduino.exe
+x - Scratch Desktop|scratchdesktop.exe
+x - JDownloader|jdownloader2.exe
+x - Internet Download Manager|idman.exe
+x - Free Download Manager|fdm.exe
+x - Deluge|deluge.exe
+x - BitComet|bitcomet.exe
+x - Tixati|tixati.exe
+x - Docker Desktop|docker desktop.exe
+x - Postman|postman.exe
+x - Virtual PC|vpc.exe
+x - Recuva|recuva.exe
+x - CCleaner|ccleaner.exe
+x - TeamViewer|teamviewer.exe
 AnyDesk|anydesk.exe
-UltraViewer|ultraviewer.exe
-RemotePC|remotepc.exe
-Everything|everything.exe
-Search Everything|search.exe
-Everything Toolbar|et.exe
-Foxit Reader|foxitreader.exe
-SumatraPDF|sumatrapdf.exe
-PDF-XChange Editor|pdfxcview.exe
+x - UltraViewer|ultraviewer.exe
+x - RemotePC|remotepc.exe
+x - Everything|everything.exe
+x - Search Everything|search.exe
+x - Everything Toolbar|et.exe
+x - Foxit Reader|foxitreader.exe
+x - SumatraPDF|sumatrapdf.exe
+x - PDF-XChange Editor|pdfxcview.exe
 VLC Media Player|vlc.exe
-MPC-HC|mpc-hc.exe
-KMPlayer|kmplayer.exe
-PotPlayer|potplayer.exe
-GOM Player|gom.exe
-SMPlayer|smplayer.exe
-WinRAR|winrar.exe
-7-Zip|7zFM.exe
-PeaZip|peazip.exe
-Bandizip|bandizip.exe
-Audacity|audacity.exe
-FL Studio|fl.exe
-Ableton Live|Ableton Live.exe
-LMMS|lmms.exe
-Inkscape|inkscape.exe
-Krita|krita.exe
-GIMP|gimp-2.10.exe
-Paint.NET|paintdotnet.exe
-Adobe Photoshop|photoshop.exe
-Adobe Illustrator|illustrator.exe
-Blender|blender.exe
-Unity Hub|unityhub.exe
-Unreal Editor|unrealeditor.exe
-Cinebench|cinebench.exe
-CPU-Z|cpuz.exe
-HWMonitor|hwmonitor.exe
-Speccy|speccy.exe
-WinMerge|winmergeu.exe
-Beyond Compare|bcompare.exe
-Meld|meld.exe
+x - MPC-HC|mpc-hc.exe
+x - KMPlayer|kmplayer.exe
+x - PotPlayer|potplayer.exe
+x - GOM Player|gom.exe
+x - SMPlayer|smplayer.exe
+x - WinRAR|winrar.exe
+x - 7-Zip|7zFM.exe
+x - PeaZip|peazip.exe
+x - Bandizip|bandizip.exe
+x - Audacity|audacity.exe
+x - FL Studio|fl.exe
+x - Ableton Live|Ableton Live.exe
+x - LMMS|lmms.exe
+x - Inkscape|inkscape.exe
+x - Krita|krita.exe
+x - GIMP|gimp-2.10.exe
+x - Paint.NET|paintdotnet.exe
+x - Adobe Photoshop|photoshop.exe
+x - Adobe Illustrator|illustrator.exe
+x - Blender|blender.exe
+x - Unity Hub|unityhub.exe
+x - Unreal Editor|unrealeditor.exe
+x - Cinebench|cinebench.exe
+x - CPU-Z|cpuz.exe
+x - HWMonitor|hwmonitor.exe
+x - Speccy|speccy.exe
+x - WinMerge|winmergeu.exe
+x - Beyond Compare|bcompare.exe
+x - Meld|meld.exe
 
 
