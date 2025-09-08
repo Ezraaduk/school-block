@@ -2,3 +2,10 @@
 
 1) Améliorations de compatibilité :
 Cette nouvelle version a été conçue pour gérer un plus grand nombre de cas et améliorer la compatibilité avec différents ordinateurs. Les versions précédentes présentaient certaines limitations et n’étaient pas entièrement compatibles avec toutes les configurations Windows, ce qui pouvait provoquer des dysfonctionnements ou des erreurs sur certaines machines. Cette mise à jour corrige ces problèmes et assure un fonctionnement plus fiable et uniforme sur l’ensemble des ordinateurs sous Windows.
+
+2) Restrictions sur certaines options :
+Certaines fonctionnalités ont été limitées à des types d’ordinateurs spécifiques, principalement les ordinateurs portables :
+
+Paramètres liés au mode Avion : uniquement disponibles sur les ordinateurs portables. (Pour les ordinateurs fixes, débranchez le câble Ethernet si vous souhaitez gérer certaines options réseau.)
+
+Paramètres liés à la batterie : disponibles uniquement sur les ordinateurs portables, puisque les ordinateurs fixes n’utilisent pas de batterie intégrée.
