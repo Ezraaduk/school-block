@@ -12,9 +12,8 @@
 4. [Mise à jour](#mise-à-jour)  
 5. [Configuration et utilisation](#configuration-et-utilisation)  
 6. [Sécurité et permissions](#sécurité-et-permissions)  
-7. [Structure des fichiers](#structure-des-fichiers)  
-8. [Dépendances](#dépendances)  
-9. [Contact](#contact)
+7. [Dépendances](#dépendances)  
+8. [Contact](#contact)
 
 ---
 
@@ -45,7 +44,7 @@ L’application est conçue pour fonctionner sur Windows, avec un minimum d’in
    - Gestion par clé USB administrateur pour accéder aux fonctionnalités avancées, paramètres sensible de l'application.
 
 4. **Interface utilisateur**
-   - Fenêtre principale claire avec couleurs définie pour chaque étatt des clés USB.
+   - Fenêtre principale claire avec couleurs définie pour chaque état des clés USB.
    - Paramètres de configuration réuni en une seule fenêtre.
    - Boutons pour accéder aux tutoriels, depuis l'application.
 
@@ -107,19 +106,6 @@ L’application est conçue pour fonctionner sur Windows, avec un minimum d’in
 - Nécessite les droits administrateur pour installer et mettre à jour le logiciel.
 - Les mises à jour ne suppriment jamais les fichiers `.json` et `.csv` existants, nécessaire à l'enregistrement des paramètres de l'application.
 - L’accès aux fonctionnalités avancées est sécurisé via clés USB.
-
----
-
-## Structure des fichiers
-
-School-Block/
-├─ School-Block.exe # Exécutable principal
-├─ _internal/ # Dossier contenant les ressources et configs
-│ ├─ admin_key.csv # Clés USB administrateur
-│ ├─ admin_lock.csv # Verrouillage des fonctionnalités
-│ ├─ config.json # Paramètres de configuration
-│ └─ ... # Autres fichiers nécessaires
-└─ 2.ico # Icône utilisée pour l’installateur
 
 ---
 
