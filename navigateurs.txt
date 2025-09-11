@@ -4,7 +4,7 @@ Paramètres Windows|SystemSettings.exe
 Microsoft Edge|msedge.exe
 Discord PTB|discordptb.exe
 Discord Canary|discordcanary.exe
-x - VirtualBox|VirtualBox.exe
+VirtualBox|VirtualBox.exe
 Mozilla Firefox|firefox.exe
 x - Opera|opera.exe
 Spotify|spotify.exe
@@ -50,7 +50,7 @@ x - MEGA|mega.exe
 x - Nextcloud|nextcloud.exe
 PowerShell|powershell.exe
 Invite de commandes (CMD)|cmd.exe
-x - Visual Studio Code|code.exe
+Visual Studio Code|code.exe
 x - Notepad++|notepad++.exe
 Notepad|Notepad.exe
 x - PuTTY|putty.exe
