@@ -2,8 +2,8 @@ Google Chrome|chrome.exe
 Avast Secure Browser|AvastBrowser.exe
 Paramètres Windows|SystemSettings.exe
 Microsoft Edge|msedge.exe
-x - Discord PTB|discordptb.exe
-x - Discord Canary|discordcanary.exe
+Discord PTB|discordptb.exe
+Discord Canary|discordcanary.exe
 x - VirtualBox|VirtualBox.exe
 Mozilla Firefox|firefox.exe
 x - Opera|opera.exe
