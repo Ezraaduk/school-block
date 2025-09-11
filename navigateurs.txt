@@ -97,7 +97,7 @@ FileZilla|filezilla.exe
 x - WinSCP|winscp.exe
 x - BitTorrent|bittorrent.exe
 x - uTorrent|utorrent.exe
-x - qBittorrent|qbittorrent.exe
+qBittorrent|qbittorrent.exe
 x - Transmission-Qt|transmission-qt.exe
 x - Node.js|node.exe
 x - Git Bash|git-bash.exe
@@ -191,7 +191,8 @@ x - PotPlayer|potplayer.exe
 x - GOM Player|gom.exe
 x - SMPlayer|smplayer.exe
 x - WinRAR|winrar.exe
-x - 7-Zip|7zFM.exe
+7zFM.exe
+Paint|mspaint.exe
 x - PeaZip|peazip.exe
 x - Bandizip|bandizip.exe
 x - Audacity|audacity.exe
