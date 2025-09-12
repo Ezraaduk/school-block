@@ -1,6 +1,5 @@
 Google Chrome|chrome.exe
 Avast Secure Browser|AvastBrowser.exe
-Microsoft Edge|msedge.exe
 Discord PTB|discordptb.exe
 Discord Canary|discordcanary.exe
 VirtualBox|VirtualBox.exe
