@@ -12,5 +12,5 @@ Elle ne doit pas être bloquée par le mode examen (les applications bloquées n
 Elle doit être ouverte lors de la configuration de Focus-app.
 
 🛠️ Corrections
-2) Modifications :
+2) Modifications : Orthographe 
 Ajustement et correction de certaines phrases incorrectes.
