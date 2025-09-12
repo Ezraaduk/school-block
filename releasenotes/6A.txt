@@ -1,1 +1,16 @@
-Hello WORD
+📆 Date de publication : 12 septembre 2025
+
+✨ Ajouts
+1) Nouvelle fonctionnalité : Focus-app
+Permet de forcer une application (Word, Excel, etc.) à rester au premier plan.
+Masque toutes les autres fenêtres pour garantir un examen strictement sécurisé.
+⚠️ Non compatible avec les configurations multi-écrans.
+
+Conditions d’utilisation :
+L’application doit être autorisée par le développeur (via GitHub).
+Elle ne doit pas être bloquée par le mode examen (les applications bloquées n’apparaissent pas).
+Elle doit être ouverte lors de la configuration de Focus-app.
+
+🛠️ Corrections
+2) Modifications :
+Ajustement et correction de certaines phrases incorrectes.
