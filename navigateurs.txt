@@ -12,7 +12,7 @@ Powerpoint|powerpnt.exe
 Outlook|outlook.exe
 Onenote|onenote.exe
 Publisher|mspub.exe
-Access|access.exe
+Access|msaccess.exe
 Excel|excel.exe
 x - Opera|opera.exe
 Spotify|spotify.exe
