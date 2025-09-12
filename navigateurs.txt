@@ -6,6 +6,7 @@ Discord PTB|discordptb.exe
 Discord Canary|discordcanary.exe
 VirtualBox|VirtualBox.exe
 Mozilla Firefox|firefox.exe
+Photos|Photos.exe
 x - Opera|opera.exe
 Spotify|spotify.exe
 x - Brave|brave.exe
