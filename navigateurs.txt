@@ -9,7 +9,7 @@ Mozilla Firefox|firefox.exe
 Photos|Photos.exe
 Word|winword.exe
 Powerpoint|powerpnt.exe
-Outlook|outlook.exe
+Outlook|msedgewebview2.exe
 Onenote|onenote.exe
 Publisher|mspub.exe
 Access|msaccess.exe
