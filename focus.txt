@@ -1,57 +1,41 @@
 Google Chrome|chrome.exe
 Avast Secure Browser|AvastBrowser.exe
-Discord PTB|discordptb.exe
-Discord Canary|discordcanary.exe
-VirtualBox|VirtualBox.exe
 Mozilla Firefox|firefox.exe
 Photos|Photos.exe
-x - Opera|opera.exe
-Spotify|spotify.exe
-x - Brave|brave.exe
-x - Vivaldi|vivaldi.exe
-x - Chromium|chromium.exe
 Avast Secure Browser|AvastBrowser
-x - Torch Browser|torch.exe
-Discord|discord.exe
+Notepad|Notepad.exe
+OneDrive|onedrive.exe
+VLC Media Player|vlc.exe
+Paint|mspaint.exe
+Word|winword.exe
 x - Skype|skype.exe
 x - Microsoft Teams|teams.exe
 x - Slack|slack.exe
 x - Zoom|zoom.exe
 x - Telegram|telegram.exe
-WhatsApp Desktop|whatsapp.exe
-EA|EADesktop.exe
 x - Signal|signal.exe
 x - Element (Matrix)|element.exe
 x - WeChat|wechat.exe
-Capture Windows|snippingtool.exe
 x - Lightshot|lightshot.exe
 x - Gyazo|gyazo.exe
-OBS Studio 64-bit|obs64.exe
 x - Bandicam|bandicam.exe
 x - Screenpresso|screenpresso.exe
 x - CamStudio|camstudio.exe
 x - Flameshot|flameshot.exe
-Steam|steam.exe
 x - Epic Games Launcher|epicgameslauncher.exe
 x - Origin|origin.exe
 x - Riot Client|riotclientservices.exe
 x - Battle.net|battle.net.exe
 x - Ubisoft Connect|uplay.exe
 x - GOG Galaxy|goggalaxy.exe
-Roblox|robloxplayerbeta.exe
 x - Minecraft Launcher|minecraftlauncher.exe
 x - Valorant|valorant.exe
 x - Fortnite|fortniteclient-win64-shipping.exe
-OneDrive|onedrive.exe
 x - Google Drive|googledrivesync.exe
 x - Dropbox|dropbox.exe
 x - MEGA|mega.exe
 x - Nextcloud|nextcloud.exe
-PowerShell|powershell.exe
-Invite de commandes (CMD)|cmd.exe
-Visual Studio Code|code.exe
 x - Notepad++|notepad++.exe
-Notepad|Notepad.exe
 x - PuTTY|putty.exe
 x - Comodo Dragon|dragon.exe
 x - SRWare Iron|iron.exe
@@ -92,16 +76,13 @@ x - pCloud|pcloud.exe
 x - Resilio Sync|resilio-sync.exe
 x - Tresorit|tresorit.exe
 x - Zotero|zotero.exe
-FileZilla|filezilla.exe
 x - WinSCP|winscp.exe
 x - BitTorrent|bittorrent.exe
 x - uTorrent|utorrent.exe
-qBittorrent|qbittorrent.exe
 x - Transmission-Qt|transmission-qt.exe
 x - Node.js|node.exe
 x - Git Bash|git-bash.exe
 x - Cmder|cmder.exe
-Terminal Windows|wt.exe
 x - Resource Hacker|reshacker.exe
 x - AutoHotkey|autohotkey.exe
 x - PowerToys|powertoys.exe
@@ -174,7 +155,6 @@ x - Virtual PC|vpc.exe
 x - Recuva|recuva.exe
 x - CCleaner|ccleaner.exe
 x - TeamViewer|teamviewer.exe
-AnyDesk|anydesk.exe
 x - UltraViewer|ultraviewer.exe
 x - RemotePC|remotepc.exe
 x - Everything|everything.exe
@@ -183,15 +163,12 @@ x - Everything Toolbar|et.exe
 x - Foxit Reader|foxitreader.exe
 x - SumatraPDF|sumatrapdf.exe
 x - PDF-XChange Editor|pdfxcview.exe
-VLC Media Player|vlc.exe
 x - MPC-HC|mpc-hc.exe
 x - KMPlayer|kmplayer.exe
 x - PotPlayer|potplayer.exe
 x - GOM Player|gom.exe
 x - SMPlayer|smplayer.exe
 x - WinRAR|winrar.exe
-7zFM.exe
-Paint|mspaint.exe
 x - PeaZip|peazip.exe
 x - Bandizip|bandizip.exe
 x - Audacity|audacity.exe
