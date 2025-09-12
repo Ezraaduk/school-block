@@ -1,0 +1,7 @@
+📆 Date de publication : 12 septembre 2025
+
+1) Corrections
+- La fonctionnalité Focus-app a été améliorée : la réouverture automatique fonctionne désormais même après plusieurs fermetures manuelles par l’utilisateur, empêchant ainsi réellement l’usage d’autres applications.
+
+2) Modifications
+- Le nombre de clés USB configurables passe à 20 (au lieu de 15 dans la version précédente).
