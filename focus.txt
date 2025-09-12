@@ -8,6 +8,12 @@ OneDrive|onedrive.exe
 VLC Media Player|vlc.exe
 Paint|mspaint.exe
 Word|winword.exe
+Powerpoint|powerpnt.exe
+Outlook|outlook.exe
+Onenote|onenote.exe
+Publisher|mspub.exe
+Access|access.exe
+Excel|excel.exe
 x - Skype|skype.exe
 x - Microsoft Teams|teams.exe
 x - Slack|slack.exe
