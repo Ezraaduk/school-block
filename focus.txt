@@ -14,7 +14,6 @@ Onenote|onenote.exe
 Publisher|mspub.exe
 Access|msaccess.exe
 Excel|excel.exe
-Microsoft Edge|msedge.exe
 x - Skype|skype.exe
 x - Microsoft Teams|teams.exe
 x - Slack|slack.exe
