@@ -1,6 +1,7 @@
 # School-Block
 
-**School-Block** est une application de contrôle et de sécurisation des ordinateurs en environnement scolaire ou professionnel. Conçue pour offrir un espace de travail numérique adapté aux cours, examens et sessions de travail encadrées, elle permet de restreindre l’accès aux applications, à Internet et au copier-coller, tout en garantissant la sécurité des données utilisateur et la simplicité de déploiement.
+School-Block est un outil conçu pour surveiller, sécuriser les ordinateurs dans un environnement de formation.
+En offrant un espace de travail numérique adapté aux cours, aux examens et sessions de travail encadrées.
 
 ---
 
@@ -20,16 +21,17 @@
 
 ## Présentation
 
-School-Block est un outil complet de gestion et de contrôle des ordinateurs utilisés dans un cadre éducatif / scolaire. 
-L'objectif principal est de sécuriser l’environnement numérique lors des examens, offrant les fonctionnalités suivantes :
+School-Block est un outil complet de gestion et de contrôle des ordinateurs utilisés dans un cadre éducatif / scolaire.
 
-- **Blocage d’Internet** pour éviter les distractions ou les triches pendant les examens.
-- **Restriction des applications non autorisées** pour limiter l’usage aux programmes essentiels.
-- **Sécurisation du copier-coller** afin d’empêcher le transfert non autorisé de données.
-- **Surveillance en temps réel** pour informer les administrateurs des applications ouvertes ou des tentatives d’accès interdit.
-- **Interface conviviale** avec un installateur simple et des messages clairs.
+L'objectif principal est de sécuriser l’environnement numérique lors des examens théorique, offrant les fonctionnalités suivantes :
 
-L’application est conçue pour fonctionner sur Windows, (compatibilité non testée sur Mac OS et Linux), avec un minimum d’intervention de la part de l’utilisateur final.
+- Le **blocage d’Internet**, en forçant le mode avion à être actif. (Ordinateur fixe incompatibles.)
+- La **Restriction des applications non autorisées** pour limiter l’usage aux programmes essentiels.
+- **Sécurisation du copier-coller** afin d’empêcher le transfert non autorisé de données d'un fichier texte pré-écrit.
+- **Surveillance en temps réel** pour informer le personnel éducatif, des applications ouvertes ou des tentatives d’accès interdit. (Bloque l'ordinateur)
+- **Interface simplifiée** avec un installateur simple et des messages clairs.
+
+L’application est conçue pour fonctionner sur Windows, (compatibilité non testée sur Mac OS et Linux), avec un minimum d’intervention de la part de l’utilisateur final. L'élève, n'a pas besoin d'intervenir sur l'application une fois configurée par le personnel éducatif.
 
 ---
 
