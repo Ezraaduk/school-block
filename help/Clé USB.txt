@@ -1,12 +1,12 @@
-🔐 Clés USB administrateur – Fonctionnement et gestion :
-L’application utilise un système de contrôle par clés USB administrateur. Ces clés permettent de sécuriser les actions sensibles, comme :
+🔐 Clés USB administrateur - Fonctionnement et gestion :
+L'application utilise un système de contrôle par clés USB administrateur. Ces clés permettent de sécuriser les actions sensibles, comme :
 
   - Désactiver le mode examen,
   - Accéder aux paramètres internes,
-  - Ajouter ou supprimer d’autres clés administrateur.
+  - Ajouter ou supprimer d'autres clés administrateur.
 
 🆔 Comment une clé est-elle reconnue ?
-Chaque clé USB possède un numéro de série matériel unique. Ce numéro est automatiquement détecté lors de l’insertion, puis comparé à une liste enregistrée dans le fichier de sauvegarde.
+Chaque clé USB possède un numéro de série matériel unique. Ce numéro est automatiquement détecté lors de l'insertion, puis comparé à une liste enregistrée dans le fichier de sauvegarde.
 
   - Si le numéro correspond à une clé administrateur, les fonctions administrateur sont accessibles.
 
