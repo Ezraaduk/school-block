@@ -11,3 +11,4 @@
 
 3) Ajouts
 - Lorsque que le blocage du presse-papier est actif, l'apprenant est désormais averti à l'aide d'un popup jaune au centre de l'écran que le « Ctrl+C » est interdit.
+- Il sera désormais possible d'envoyer la configuration de l'application d'un ordinateur à l'autre de manière sans fils. 
