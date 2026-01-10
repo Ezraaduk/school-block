@@ -1,0 +1,14 @@
+📆 Date de publication : 10 janvier 2026
+
+1) Optimisation 
+- Le blocage du presse-papier a été optimisé et est désormais plus rapide, passant d'une vérification toutes les secondes à une vérification toutes les 0.2 secondes.
+- D'autres fonctionnalités ont été optimisées et seront plus rapides. (Vérification clés, déblocage et autres.)
+
+2) Modifications : 
+- La planification des heures de cours a été revue également, car celle-ci ne fonctionnait pas convenablement.
+- Le système de blocage du presse-papier a été revu.
+- Suppression du mode "focus".
+
+3) Ajouts
+- Lorsque que le blocage du presse-papier est actif, l'apprenant est désormais averti à l'aide d'un popup jaune au centre de l'écran que le « Ctrl+C » est interdit.
+- Il sera désormais possible d'importer ou d'exporter la configuration actuelle de l'appareil.
