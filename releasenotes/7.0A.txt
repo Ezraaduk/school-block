@@ -12,3 +12,6 @@
 3) Ajouts
 - Lorsque que le blocage du presse-papier est actif, l'apprenant est désormais averti à l'aide d'un popup jaune au centre de l'écran que le « Ctrl+C » est interdit.
 - Il sera désormais possible d'importer ou d'exporter la configuration actuelle de l'appareil.
+
+4) Liste de blocage :
+- La liste des programmes disponibles au blocage dispose de 5 nouveaux programmes. (Compatible avec les versions antérieures à la 7.0A)
