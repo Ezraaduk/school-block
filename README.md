@@ -11,12 +11,11 @@ En offrant un espace de travail numérique adapté aux cours, aux examens et ses
 2. [Installation](#installation)  
 3. [Première utilisation](#Première-utilisation)
 4. [Fonctionnalités principales](#fonctionnalités-principales)
-5. [Fonctionnalités principales](#fonctionnalités-principales)
-6. [Mise à jour](#mise-à-jour)  
-7. [Sécurité et permissions](#sécurité-et-permissions)  
-8. [Dépannage](#dépannage)
-9. [FAQ](#faq)
-10. [Contact](#contact)
+5. [Mise à jour](#mise-à-jour)  
+6. [Sécurité et permissions](#sécurité-et-permissions)  
+7. [Dépannage](#dépannage)
+8. [FAQ](#faq)
+9. [Contact](#contact)
 
 ---
 
